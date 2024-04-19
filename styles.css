@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background: rgb(3, 0, 55);
+    background: linear-gradient(155deg, rgba(3, 0, 55, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+
+#countdown {
+    font-family: monospace;
+    font-size: 2rem;
+    color: white;
+}
